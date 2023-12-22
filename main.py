@@ -225,4 +225,3 @@ if __name__ == '__main__':
     for course in COURSE_LIST:  # 演示用
         xmu.change_course(course, 'del')  # 退课
         xmu.loop_add_course(course)
-  
