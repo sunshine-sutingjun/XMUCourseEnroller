@@ -207,8 +207,8 @@ class XMUCourseEntroller:
 
 
 if __name__ == '__main__':
-    PASSWORD = ''  # 输入你的密码,其会被自动加密
-    ID = '' #你的学号
+    PASSWORD = 'tLYkgIaUGnshye02DqGGPw=='  # 输入你的密码,其会被自动加密
+    ID = '37220232203813' #你的学号
     TEACHINGCLASSTYPE = {
         '校选课': 'XGKC',
         '本专业计划课程': 'TJKC',
